@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : lurking ideas
-tagline: Jiri Barton's lurking ideas
+title : Jiri Barton's lurking ideas
+tagline:
 author :
   name : Jiri Barton
   email : jbar@tele3.cz
