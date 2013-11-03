@@ -2,6 +2,7 @@
 layout: page
 title: "Jekyll Bootstrap"
 description: ""
+permalink: jekyll-bootstrap
 ---
 {% include JB/setup %}
 
@@ -30,3 +31,28 @@ Aaaaw, it has to go to `_posts/` and has to follow the naming `Y-M-D-title.md`.
 
 There you go. It is in the list `Here’s a sample “posts list”.` Good!
 
+### 2. The front page
+
+It is all in `index.md`. Switched the theme following with
+
+    rake theme:install git="https://github.com/dhulihan/hooligan.git"
+
+and it worked. It looks much better now. Going to start writing soon but 
+first, to sort out permalinks and images.
+
+### 3. Light adjustments
+
+Tried
+
+    permalink: jekyll-bootstrap
+
+in the header and it worked. V. good.
+
+Let me see how others link it. Put them to `images/`. Okay:
+
+![screenshot](../images/2013-11-03-screenshot.png)
+
+### 4. Theme again
+
+Switched themes again. `hooligan` looked more like a ransom letter with more 
+text. I am not sure I like the spacing in `mark-reid` but I may adjust it later.

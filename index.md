@@ -1,9 +1,11 @@
 ---
 layout: page
-title: recent ideas
+title: Jiri Barton's lurking ideas
 tagline:
 ---
 {% include JB/setup %}
+
+##recent
 
 <ul class="posts">
   {% for post in site.posts %}
