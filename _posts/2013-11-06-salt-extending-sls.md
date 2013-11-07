@@ -94,7 +94,7 @@ The difference is this dependency from `php.sls` would need to become part of
 ##Simplified
 
 Using the guide
-(Extending Included SLS Data)[http://docs.saltstack.com/topics/tutorials/starting_states.html#extending-included-sls-data]
+[Extending Included SLS Data](http://docs.saltstack.com/topics/tutorials/starting_states.html#extending-included-sls-data)
 we find we can redefine `php.sls`:
 
     php5:
