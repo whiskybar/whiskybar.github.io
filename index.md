@@ -22,4 +22,5 @@ tagline:
 ##hatred of the lifetime
 
 <ul class="posts">
+  <li><a href="http://www.php.net">PHP</a> &mdash; <span>please don't</span></li>
 </ul>

@@ -122,4 +122,4 @@ the service definition naturally.
 **Extending SLS allows adding requirements to an existing state. This avoids 
 copying long blocks or reverting the logic with `require_in` or `watch_in`.**
 
-**Many `watch_in` or `require_in` is a sign to consider extending an SLS.**
+**Many `watch_in` or `require_in` is a sign to consider extending SLS.**
